@@ -1,0 +1,14 @@
+POSITION ATTACK VS DEFENCE — FIX STEPS
+
+1. Unzip this package.
+2. On GitHub, upload EVERYTHING inside this folder to the ROOT of your repository.
+3. Commit directly to main.
+4. Settings > Actions > General > Workflow permissions > Read and write permissions > Save.
+5. Settings > Pages > Source > GitHub Actions.
+6. Actions > Super League Pro live update > Run workflow.
+7. Leave “Re-read all completed 2026 match pages for scorers and positions” = true.
+8. Click the green Run workflow button.
+9. Wait for a green tick. The first full position backfill can take 10–25 minutes.
+10. Hard-refresh the site with Command + Shift + R.
+
+After the first successful backfill, the Position attack vs defence panel shows actual tries scored and conceded by LW, LC, L2R, FE, HLF, R2R, RC, RW, FB, PR, HK and LK.

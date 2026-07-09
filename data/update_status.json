@@ -1,0 +1,46 @@
+{
+  "last_run_utc": "2026-07-10T00:00:00+00:00",
+  "completed_matches": {
+    "ok": true,
+    "message": "Preloaded 118 completed 2026 match scores; workflow will enrich with scorers and team sheets.",
+    "matches": 118,
+    "added": 118,
+    "checked_utc": "2026-07-10T00:00:00+00:00"
+  },
+  "fixtures_teamlists": {
+    "ok": false,
+    "message": "Not run yet"
+  },
+  "player_stats": {
+    "ok": true,
+    "message": "Preloaded the current official 2026 Full Stats top 20; workflow refreshes the table.",
+    "rows": 20,
+    "checked_utc": "2026-07-10T00:00:00+00:00",
+    "cached": false
+  },
+  "last_render_utc": "2026-07-09T22:31:02+00:00",
+  "manifest": {
+    "2025_matches": 167,
+    "2026_matches": 118,
+    "2026_tries": 0,
+    "fixtures": 0,
+    "teamlist_rows": 0,
+    "player_stat_rows": 20,
+    "teams": 15,
+    "review_queue_rows": 0,
+    "positions": [
+      "LW",
+      "LC",
+      "L2R",
+      "FE",
+      "HLF",
+      "R2R",
+      "RC",
+      "RW",
+      "FB",
+      "PR",
+      "HK",
+      "LK"
+    ]
+  }
+}

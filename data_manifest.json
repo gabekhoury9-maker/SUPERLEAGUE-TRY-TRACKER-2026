@@ -1,0 +1,26 @@
+{
+  "2025_matches": 167,
+  "2026_matches": 118,
+  "2026_tries": 0,
+  "2026_position_matches": 0,
+  "2026_lineup_rows": 0,
+  "fixtures": 0,
+  "teamlist_rows": 0,
+  "player_stat_rows": 20,
+  "teams": 15,
+  "review_queue_rows": 0,
+  "positions": [
+    "LW",
+    "LC",
+    "L2R",
+    "FE",
+    "HLF",
+    "R2R",
+    "RC",
+    "RW",
+    "FB",
+    "PR",
+    "HK",
+    "LK"
+  ]
+}

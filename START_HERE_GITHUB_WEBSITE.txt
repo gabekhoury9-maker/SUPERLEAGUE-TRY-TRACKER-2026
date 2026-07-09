@@ -1,0 +1,35 @@
+SUPER LEAGUE PRO TRACKER — WEBSITE UPLOAD
+
+THIS VERSION IS ALREADY POPULATED:
+- 118 completed 2026 match results through 5 July 2026
+- 20 current official 2026 player-stat rows
+- 2025 historical data
+
+IMPORTANT: Upload these files to the ROOT of your GitHub repository.
+The main GitHub Code page must immediately show:
+  .github
+  data
+  assets
+  super_league_tracker
+  index.html
+  update_tracker.py
+
+It must NOT show only one outer folder.
+
+WEBSITE STEPS
+1. Unzip this file on your Mac.
+2. Press Command + Shift + . in Finder so .github is visible.
+3. In GitHub, open the repository Code page.
+4. Delete the old outer folder named "super_league_try_tracker 3" after the new root files are uploaded.
+5. Click Add file > Upload files.
+6. Select ALL contents of this extracted folder, including .github.
+7. Commit directly to main.
+8. Settings > Actions > General > Workflow permissions > Read and write permissions > Save.
+9. Settings > Pages > Source > GitHub Actions.
+10. Actions > Super League Pro live update > Run workflow > main > Run workflow.
+
+CHECK IT WORKED
+- The Actions page must list "Super League Pro live update".
+- The Code page must show index.html directly, without opening another folder.
+- The Player Stats tab should show data immediately, even before the workflow runs.
+- The Health tab should show 118 2026 matches and 20 player-stat rows.

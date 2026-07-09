@@ -1,0 +1,39 @@
+SUPER LEAGUE PRO TRACKER — GITHUB WEBSITE SETUP
+
+1. Unzip this download.
+2. Open the unzipped folder until you directly see index.html.
+3. On your Mac press Command + Shift + . so the hidden .github folder is visible.
+4. Open your GitHub repository in Safari or Chrome.
+5. Click Add file → Upload files.
+6. Drag EVERYTHING INSIDE the unzipped folder into GitHub.
+7. Do not drag only the outside folder.
+8. Commit the upload to main.
+9. Go to Settings → Actions → General.
+10. Set Workflow permissions to Read and write permissions. Save.
+11. Go to Settings → Pages.
+12. Set Source to GitHub Actions.
+13. Go to Actions.
+14. Click Super League Pro live update.
+15. Click Run workflow → main → green Run workflow button.
+16. Wait for a green tick.
+17. Open Settings → Pages → Visit site.
+
+AFTER THAT:
+You normally do nothing. GitHub checks at minutes 7, 22, 37 and 52 every hour.
+Your Mac does not need to stay open.
+
+IF A MATCH IS MISSING:
+Actions → Super League Pro live update → Run workflow.
+
+IF A RUN IS RED:
+Open it, open the first red step, and copy the red error message.
+
+THE FILES MUST BE AT THE REPOSITORY ROOT:
+.github
+assets
+data
+exports
+super_league_tracker
+tests
+index.html
+update_tracker.py

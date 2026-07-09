@@ -1,0 +1,289 @@
+season,scope,team,team_short,matches,position,tries_scored,tries_conceded,differential
+2025,Regular season,Castleford,Castleford,27,LW,12,23,-11
+2025,Regular season,Castleford,Castleford,27,LC,4,11,-7
+2025,Regular season,Castleford,Castleford,27,L2R,4,5,-1
+2025,Regular season,Castleford,Castleford,27,FE,6,8,-2
+2025,Regular season,Castleford,Castleford,27,HLF,3,8,-5
+2025,Regular season,Castleford,Castleford,27,R2R,4,5,-1
+2025,Regular season,Castleford,Castleford,27,RC,5,16,-11
+2025,Regular season,Castleford,Castleford,27,RW,13,27,-14
+2025,Regular season,Castleford,Castleford,27,FB,9,17,-8
+2025,Regular season,Castleford,Castleford,27,PR,3,15,-12
+2025,Regular season,Castleford,Castleford,27,HK,5,8,-3
+2025,Regular season,Castleford,Castleford,27,LK,3,4,-1
+2025,Regular season,Catalans,Catalans,27,LW,2,17,-15
+2025,Regular season,Catalans,Catalans,27,LC,11,12,-1
+2025,Regular season,Catalans,Catalans,27,L2R,2,7,-5
+2025,Regular season,Catalans,Catalans,27,FE,5,19,-14
+2025,Regular season,Catalans,Catalans,27,HLF,0,3,-3
+2025,Regular season,Catalans,Catalans,27,R2R,3,7,-4
+2025,Regular season,Catalans,Catalans,27,RC,5,6,-1
+2025,Regular season,Catalans,Catalans,27,RW,12,17,-5
+2025,Regular season,Catalans,Catalans,27,FB,11,12,-1
+2025,Regular season,Catalans,Catalans,27,PR,11,6,5
+2025,Regular season,Catalans,Catalans,27,HK,10,7,3
+2025,Regular season,Catalans,Catalans,27,LK,0,0,0
+2025,Regular season,Huddersfield,Huddersfield,27,LW,7,19,-12
+2025,Regular season,Huddersfield,Huddersfield,27,LC,4,10,-6
+2025,Regular season,Huddersfield,Huddersfield,27,L2R,0,8,-8
+2025,Regular season,Huddersfield,Huddersfield,27,FE,9,13,-4
+2025,Regular season,Huddersfield,Huddersfield,27,HLF,1,6,-5
+2025,Regular season,Huddersfield,Huddersfield,27,R2R,6,10,-4
+2025,Regular season,Huddersfield,Huddersfield,27,RC,3,8,-5
+2025,Regular season,Huddersfield,Huddersfield,27,RW,12,16,-4
+2025,Regular season,Huddersfield,Huddersfield,27,FB,10,17,-7
+2025,Regular season,Huddersfield,Huddersfield,27,PR,5,11,-6
+2025,Regular season,Huddersfield,Huddersfield,27,HK,1,7,-6
+2025,Regular season,Huddersfield,Huddersfield,27,LK,2,4,-2
+2025,Regular season,Hull FC,Hull FC,27,LW,24,8,16
+2025,Regular season,Hull FC,Hull FC,27,LC,9,6,3
+2025,Regular season,Hull FC,Hull FC,27,L2R,7,5,2
+2025,Regular season,Hull FC,Hull FC,27,FE,4,9,-5
+2025,Regular season,Hull FC,Hull FC,27,HLF,6,4,2
+2025,Regular season,Hull FC,Hull FC,27,R2R,5,4,1
+2025,Regular season,Hull FC,Hull FC,27,RC,6,6,0
+2025,Regular season,Hull FC,Hull FC,27,RW,19,14,5
+2025,Regular season,Hull FC,Hull FC,27,FB,4,13,-9
+2025,Regular season,Hull FC,Hull FC,27,PR,11,6,5
+2025,Regular season,Hull FC,Hull FC,27,HK,2,5,-3
+2025,Regular season,Hull FC,Hull FC,27,LK,0,3,-3
+2025,Regular season,Hull KR,Hull KR,27,LW,27,8,19
+2025,Regular season,Hull KR,Hull KR,27,LC,16,4,12
+2025,Regular season,Hull KR,Hull KR,27,L2R,6,2,4
+2025,Regular season,Hull KR,Hull KR,27,FE,19,3,16
+2025,Regular season,Hull KR,Hull KR,27,HLF,7,5,2
+2025,Regular season,Hull KR,Hull KR,27,R2R,11,5,6
+2025,Regular season,Hull KR,Hull KR,27,RC,10,6,4
+2025,Regular season,Hull KR,Hull KR,27,RW,17,8,9
+2025,Regular season,Hull KR,Hull KR,27,FB,8,6,2
+2025,Regular season,Hull KR,Hull KR,27,PR,10,4,6
+2025,Regular season,Hull KR,Hull KR,27,HK,8,0,8
+2025,Regular season,Hull KR,Hull KR,27,LK,1,0,1
+2025,Regular season,Leeds,Leeds,27,LW,11,11,0
+2025,Regular season,Leeds,Leeds,27,LC,5,5,0
+2025,Regular season,Leeds,Leeds,27,L2R,10,1,9
+2025,Regular season,Leeds,Leeds,27,FE,9,7,2
+2025,Regular season,Leeds,Leeds,27,HLF,6,1,5
+2025,Regular season,Leeds,Leeds,27,R2R,8,4,4
+2025,Regular season,Leeds,Leeds,27,RC,12,4,8
+2025,Regular season,Leeds,Leeds,27,RW,12,9,3
+2025,Regular season,Leeds,Leeds,27,FB,11,7,4
+2025,Regular season,Leeds,Leeds,27,PR,14,3,11
+2025,Regular season,Leeds,Leeds,27,HK,1,1,0
+2025,Regular season,Leeds,Leeds,27,LK,6,2,4
+2025,Regular season,Leigh,Leigh,27,LW,14,8,6
+2025,Regular season,Leigh,Leigh,27,LC,12,5,7
+2025,Regular season,Leigh,Leigh,27,L2R,10,5,5
+2025,Regular season,Leigh,Leigh,27,FE,4,5,-1
+2025,Regular season,Leigh,Leigh,27,HLF,4,3,1
+2025,Regular season,Leigh,Leigh,27,R2R,7,3,4
+2025,Regular season,Leigh,Leigh,27,RC,9,10,-1
+2025,Regular season,Leigh,Leigh,27,RW,16,13,3
+2025,Regular season,Leigh,Leigh,27,FB,10,7,3
+2025,Regular season,Leigh,Leigh,27,PR,10,11,-1
+2025,Regular season,Leigh,Leigh,27,HK,13,3,10
+2025,Regular season,Leigh,Leigh,27,LK,2,3,-1
+2025,Regular season,Salford,Salford,27,LW,3,24,-21
+2025,Regular season,Salford,Salford,27,LC,3,14,-11
+2025,Regular season,Salford,Salford,27,L2R,2,13,-11
+2025,Regular season,Salford,Salford,27,FE,1,15,-14
+2025,Regular season,Salford,Salford,27,HLF,3,3,0
+2025,Regular season,Salford,Salford,27,R2R,4,11,-7
+2025,Regular season,Salford,Salford,27,RC,6,19,-13
+2025,Regular season,Salford,Salford,27,RW,5,32,-27
+2025,Regular season,Salford,Salford,27,FB,4,19,-15
+2025,Regular season,Salford,Salford,27,PR,6,19,-13
+2025,Regular season,Salford,Salford,27,HK,2,17,-15
+2025,Regular season,Salford,Salford,27,LK,1,8,-7
+2025,Regular season,St Helens,St Helens,27,LW,17,9,8
+2025,Regular season,St Helens,St Helens,27,LC,9,10,-1
+2025,Regular season,St Helens,St Helens,27,L2R,5,1,4
+2025,Regular season,St Helens,St Helens,27,FE,10,4,6
+2025,Regular season,St Helens,St Helens,27,HLF,3,1,2
+2025,Regular season,St Helens,St Helens,27,R2R,3,4,-1
+2025,Regular season,St Helens,St Helens,27,RC,14,4,10
+2025,Regular season,St Helens,St Helens,27,RW,25,8,17
+2025,Regular season,St Helens,St Helens,27,FB,12,7,5
+2025,Regular season,St Helens,St Helens,27,PR,8,5,3
+2025,Regular season,St Helens,St Helens,27,HK,6,2,4
+2025,Regular season,St Helens,St Helens,27,LK,9,1,8
+2025,Regular season,Wakefield Trinity,Wakefield,27,LW,12,13,-1
+2025,Regular season,Wakefield Trinity,Wakefield,27,LC,6,9,-3
+2025,Regular season,Wakefield Trinity,Wakefield,27,L2R,2,3,-1
+2025,Regular season,Wakefield Trinity,Wakefield,27,FE,8,4,4
+2025,Regular season,Wakefield Trinity,Wakefield,27,HLF,5,1,4
+2025,Regular season,Wakefield Trinity,Wakefield,27,R2R,10,2,8
+2025,Regular season,Wakefield Trinity,Wakefield,27,RC,10,12,-2
+2025,Regular season,Wakefield Trinity,Wakefield,27,RW,16,14,2
+2025,Regular season,Wakefield Trinity,Wakefield,27,FB,13,9,4
+2025,Regular season,Wakefield Trinity,Wakefield,27,PR,18,7,11
+2025,Regular season,Wakefield Trinity,Wakefield,27,HK,7,5,2
+2025,Regular season,Wakefield Trinity,Wakefield,27,LK,3,2,1
+2025,Regular season,Warrington,Warrington,27,LW,13,10,3
+2025,Regular season,Warrington,Warrington,27,LC,5,13,-8
+2025,Regular season,Warrington,Warrington,27,L2R,3,6,-3
+2025,Regular season,Warrington,Warrington,27,FE,7,8,-1
+2025,Regular season,Warrington,Warrington,27,HLF,1,7,-6
+2025,Regular season,Warrington,Warrington,27,R2R,3,8,-5
+2025,Regular season,Warrington,Warrington,27,RC,13,5,8
+2025,Regular season,Warrington,Warrington,27,RW,24,25,-1
+2025,Regular season,Warrington,Warrington,27,FB,8,7,1
+2025,Regular season,Warrington,Warrington,27,PR,1,11,-10
+2025,Regular season,Warrington,Warrington,27,HK,3,8,-5
+2025,Regular season,Warrington,Warrington,27,LK,4,3,1
+2025,Regular season,Wigan,Wigan,27,LW,17,9,8
+2025,Regular season,Wigan,Wigan,27,LC,16,1,15
+2025,Regular season,Wigan,Wigan,27,L2R,10,5,5
+2025,Regular season,Wigan,Wigan,27,FE,18,5,13
+2025,Regular season,Wigan,Wigan,27,HLF,5,2,3
+2025,Regular season,Wigan,Wigan,27,R2R,4,5,-1
+2025,Regular season,Wigan,Wigan,27,RC,9,6,3
+2025,Regular season,Wigan,Wigan,27,RW,21,9,12
+2025,Regular season,Wigan,Wigan,27,FB,26,5,21
+2025,Regular season,Wigan,Wigan,27,PR,7,6,1
+2025,Regular season,Wigan,Wigan,27,HK,7,2,5
+2025,Regular season,Wigan,Wigan,27,LK,1,2,-1
+2025,All matches,Castleford,Castleford,27,LW,12,23,-11
+2025,All matches,Castleford,Castleford,27,LC,4,11,-7
+2025,All matches,Castleford,Castleford,27,L2R,4,5,-1
+2025,All matches,Castleford,Castleford,27,FE,6,8,-2
+2025,All matches,Castleford,Castleford,27,HLF,3,8,-5
+2025,All matches,Castleford,Castleford,27,R2R,4,5,-1
+2025,All matches,Castleford,Castleford,27,RC,5,16,-11
+2025,All matches,Castleford,Castleford,27,RW,13,27,-14
+2025,All matches,Castleford,Castleford,27,FB,9,17,-8
+2025,All matches,Castleford,Castleford,27,PR,3,15,-12
+2025,All matches,Castleford,Castleford,27,HK,5,8,-3
+2025,All matches,Castleford,Castleford,27,LK,3,4,-1
+2025,All matches,Catalans,Catalans,27,LW,2,17,-15
+2025,All matches,Catalans,Catalans,27,LC,11,12,-1
+2025,All matches,Catalans,Catalans,27,L2R,2,7,-5
+2025,All matches,Catalans,Catalans,27,FE,5,19,-14
+2025,All matches,Catalans,Catalans,27,HLF,0,3,-3
+2025,All matches,Catalans,Catalans,27,R2R,3,7,-4
+2025,All matches,Catalans,Catalans,27,RC,5,6,-1
+2025,All matches,Catalans,Catalans,27,RW,12,17,-5
+2025,All matches,Catalans,Catalans,27,FB,11,12,-1
+2025,All matches,Catalans,Catalans,27,PR,11,6,5
+2025,All matches,Catalans,Catalans,27,HK,10,7,3
+2025,All matches,Catalans,Catalans,27,LK,0,0,0
+2025,All matches,Huddersfield,Huddersfield,27,LW,7,19,-12
+2025,All matches,Huddersfield,Huddersfield,27,LC,4,10,-6
+2025,All matches,Huddersfield,Huddersfield,27,L2R,0,8,-8
+2025,All matches,Huddersfield,Huddersfield,27,FE,9,13,-4
+2025,All matches,Huddersfield,Huddersfield,27,HLF,1,6,-5
+2025,All matches,Huddersfield,Huddersfield,27,R2R,6,10,-4
+2025,All matches,Huddersfield,Huddersfield,27,RC,3,8,-5
+2025,All matches,Huddersfield,Huddersfield,27,RW,12,16,-4
+2025,All matches,Huddersfield,Huddersfield,27,FB,10,17,-7
+2025,All matches,Huddersfield,Huddersfield,27,PR,5,11,-6
+2025,All matches,Huddersfield,Huddersfield,27,HK,1,7,-6
+2025,All matches,Huddersfield,Huddersfield,27,LK,2,4,-2
+2025,All matches,Hull FC,Hull FC,27,LW,24,8,16
+2025,All matches,Hull FC,Hull FC,27,LC,9,6,3
+2025,All matches,Hull FC,Hull FC,27,L2R,7,5,2
+2025,All matches,Hull FC,Hull FC,27,FE,4,9,-5
+2025,All matches,Hull FC,Hull FC,27,HLF,6,4,2
+2025,All matches,Hull FC,Hull FC,27,R2R,5,4,1
+2025,All matches,Hull FC,Hull FC,27,RC,6,6,0
+2025,All matches,Hull FC,Hull FC,27,RW,19,14,5
+2025,All matches,Hull FC,Hull FC,27,FB,4,13,-9
+2025,All matches,Hull FC,Hull FC,27,PR,11,6,5
+2025,All matches,Hull FC,Hull FC,27,HK,2,5,-3
+2025,All matches,Hull FC,Hull FC,27,LK,0,3,-3
+2025,All matches,Hull KR,Hull KR,29,LW,30,9,21
+2025,All matches,Hull KR,Hull KR,29,LC,18,4,14
+2025,All matches,Hull KR,Hull KR,29,L2R,6,2,4
+2025,All matches,Hull KR,Hull KR,29,FE,21,3,18
+2025,All matches,Hull KR,Hull KR,29,HLF,7,6,1
+2025,All matches,Hull KR,Hull KR,29,R2R,11,5,6
+2025,All matches,Hull KR,Hull KR,29,RC,10,7,3
+2025,All matches,Hull KR,Hull KR,29,RW,17,8,9
+2025,All matches,Hull KR,Hull KR,29,FB,8,6,2
+2025,All matches,Hull KR,Hull KR,29,PR,10,4,6
+2025,All matches,Hull KR,Hull KR,29,HK,9,0,9
+2025,All matches,Hull KR,Hull KR,29,LK,1,0,1
+2025,All matches,Leeds,Leeds,28,LW,12,11,1
+2025,All matches,Leeds,Leeds,28,LC,5,5,0
+2025,All matches,Leeds,Leeds,28,L2R,10,2,8
+2025,All matches,Leeds,Leeds,28,FE,9,7,2
+2025,All matches,Leeds,Leeds,28,HLF,6,2,4
+2025,All matches,Leeds,Leeds,28,R2R,9,4,5
+2025,All matches,Leeds,Leeds,28,RC,12,4,8
+2025,All matches,Leeds,Leeds,28,RW,12,10,2
+2025,All matches,Leeds,Leeds,28,FB,11,7,4
+2025,All matches,Leeds,Leeds,28,PR,14,3,11
+2025,All matches,Leeds,Leeds,28,HK,1,1,0
+2025,All matches,Leeds,Leeds,28,LK,6,2,4
+2025,All matches,Leigh,Leigh,29,LW,15,8,7
+2025,All matches,Leigh,Leigh,29,LC,12,5,7
+2025,All matches,Leigh,Leigh,29,L2R,10,6,4
+2025,All matches,Leigh,Leigh,29,FE,4,7,-3
+2025,All matches,Leigh,Leigh,29,HLF,4,3,1
+2025,All matches,Leigh,Leigh,29,R2R,7,3,4
+2025,All matches,Leigh,Leigh,29,RC,9,11,-2
+2025,All matches,Leigh,Leigh,29,RW,17,14,3
+2025,All matches,Leigh,Leigh,29,FB,10,7,3
+2025,All matches,Leigh,Leigh,29,PR,12,11,1
+2025,All matches,Leigh,Leigh,29,HK,13,3,10
+2025,All matches,Leigh,Leigh,29,LK,3,3,0
+2025,All matches,Salford,Salford,27,LW,3,24,-21
+2025,All matches,Salford,Salford,27,LC,3,14,-11
+2025,All matches,Salford,Salford,27,L2R,2,13,-11
+2025,All matches,Salford,Salford,27,FE,1,15,-14
+2025,All matches,Salford,Salford,27,HLF,3,3,0
+2025,All matches,Salford,Salford,27,R2R,4,11,-7
+2025,All matches,Salford,Salford,27,RC,6,19,-13
+2025,All matches,Salford,Salford,27,RW,5,32,-27
+2025,All matches,Salford,Salford,27,FB,4,19,-15
+2025,All matches,Salford,Salford,27,PR,6,19,-13
+2025,All matches,Salford,Salford,27,HK,2,17,-15
+2025,All matches,Salford,Salford,27,LK,1,8,-7
+2025,All matches,St Helens,St Helens,29,LW,18,11,7
+2025,All matches,St Helens,St Helens,29,LC,9,12,-3
+2025,All matches,St Helens,St Helens,29,L2R,6,1,5
+2025,All matches,St Helens,St Helens,29,FE,10,5,5
+2025,All matches,St Helens,St Helens,29,HLF,4,1,3
+2025,All matches,St Helens,St Helens,29,R2R,3,5,-2
+2025,All matches,St Helens,St Helens,29,RC,15,4,11
+2025,All matches,St Helens,St Helens,29,RW,26,8,18
+2025,All matches,St Helens,St Helens,29,FB,12,7,5
+2025,All matches,St Helens,St Helens,29,PR,8,5,3
+2025,All matches,St Helens,St Helens,29,HK,6,2,4
+2025,All matches,St Helens,St Helens,29,LK,9,1,8
+2025,All matches,Wakefield Trinity,Wakefield,28,LW,12,14,-2
+2025,All matches,Wakefield Trinity,Wakefield,28,LC,6,9,-3
+2025,All matches,Wakefield Trinity,Wakefield,28,L2R,2,3,-1
+2025,All matches,Wakefield Trinity,Wakefield,28,FE,8,4,4
+2025,All matches,Wakefield Trinity,Wakefield,28,HLF,5,1,4
+2025,All matches,Wakefield Trinity,Wakefield,28,R2R,10,2,8
+2025,All matches,Wakefield Trinity,Wakefield,28,RC,11,12,-1
+2025,All matches,Wakefield Trinity,Wakefield,28,RW,17,15,2
+2025,All matches,Wakefield Trinity,Wakefield,28,FB,13,9,4
+2025,All matches,Wakefield Trinity,Wakefield,28,PR,18,8,10
+2025,All matches,Wakefield Trinity,Wakefield,28,HK,7,5,2
+2025,All matches,Wakefield Trinity,Wakefield,28,LK,3,3,0
+2025,All matches,Warrington,Warrington,27,LW,13,10,3
+2025,All matches,Warrington,Warrington,27,LC,5,13,-8
+2025,All matches,Warrington,Warrington,27,L2R,3,6,-3
+2025,All matches,Warrington,Warrington,27,FE,7,8,-1
+2025,All matches,Warrington,Warrington,27,HLF,1,7,-6
+2025,All matches,Warrington,Warrington,27,R2R,3,8,-5
+2025,All matches,Warrington,Warrington,27,RC,13,5,8
+2025,All matches,Warrington,Warrington,27,RW,24,25,-1
+2025,All matches,Warrington,Warrington,27,FB,8,7,1
+2025,All matches,Warrington,Warrington,27,PR,1,11,-10
+2025,All matches,Warrington,Warrington,27,HK,3,8,-5
+2025,All matches,Warrington,Warrington,27,LK,4,3,1
+2025,All matches,Wigan,Wigan,29,LW,17,11,6
+2025,All matches,Wigan,Wigan,29,LC,16,1,15
+2025,All matches,Wigan,Wigan,29,L2R,11,5,6
+2025,All matches,Wigan,Wigan,29,FE,20,6,14
+2025,All matches,Wigan,Wigan,29,HLF,6,2,4
+2025,All matches,Wigan,Wigan,29,R2R,4,5,-1
+2025,All matches,Wigan,Wigan,29,RC,9,6,3
+2025,All matches,Wigan,Wigan,29,RW,21,9,12
+2025,All matches,Wigan,Wigan,29,FB,26,5,21
+2025,All matches,Wigan,Wigan,29,PR,7,7,0
+2025,All matches,Wigan,Wigan,29,HK,7,3,4
+2025,All matches,Wigan,Wigan,29,LK,1,2,-1

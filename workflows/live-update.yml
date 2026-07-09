@@ -1,0 +1,109 @@
+name: Super League Pro live update
+
+on:
+  push:
+    branches: [main]
+  workflow_dispatch:
+    inputs:
+      force_player_stats:
+        description: Refresh official player stats even if the cache is fresh
+        required: false
+        default: false
+        type: boolean
+      force_full_backfill:
+        description: Re-read all completed 2026 match pages for scorers and positions
+        required: false
+        default: true
+        type: boolean
+  schedule:
+    # Four checks per hour, deliberately away from minute 00 to reduce queue congestion.
+    - cron: "7,22,37,52 * * * *"
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+  actions: read
+
+concurrency:
+  group: super-league-pro-live
+  cancel-in-progress: true
+
+env:
+  PYTHONUNBUFFERED: "1"
+
+jobs:
+  update-and-deploy:
+    # Avoid a second full run when this workflow commits refreshed data.
+    if: github.actor != 'github-actions[bot]' || github.event_name == 'schedule'
+    runs-on: ubuntu-latest
+    timeout-minutes: 75
+    environment:
+      name: github-pages
+      url: ${{ steps.deployment.outputs.page_url }}
+    steps:
+      - name: Check out repository
+        uses: actions/checkout@v7
+        with:
+          fetch-depth: 0
+
+      - name: Set up Python
+        uses: actions/setup-python@v6
+        with:
+          python-version: "3.13"
+          cache: pip
+
+      - name: Install dependencies
+        run: python -m pip install --upgrade pip && python -m pip install -r requirements.txt
+
+      - name: Confirm repository root
+        run: |
+          test -f index.html
+          test -f update_tracker.py
+          test -f update_data.py
+          test -f data/matches.csv
+          echo "Tracker files found at repository root."
+
+      - name: Refresh matches, fixtures, team lists and player stats
+        run: |
+          EXTRA=""
+          if [ "${{ inputs.force_player_stats }}" = "true" ]; then EXTRA="$EXTRA --force-player-stats"; fi
+          if [ "${{ inputs.force_full_backfill }}" = "true" ]; then EXTRA="$EXTRA --force-full-backfill"; fi
+          python update_tracker.py --season 2026 --delay 0.10 $EXTRA
+
+      - name: Validate tracker data and parsers
+        run: |
+          pytest -q
+          python verify_data.py
+
+      - name: Commit changed tracker data
+        run: |
+          if git diff --quiet; then
+            echo "No repository changes this run."
+          else
+            git config user.name "github-actions[bot]"
+            git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+            git add data exports index.html data_manifest.json
+            git commit -m "Update Super League tracker data"
+            git push
+          fi
+
+      - name: Build Pages artifact
+        run: |
+          rm -rf _site
+          mkdir -p _site/assets
+          cp index.html manifest.webmanifest sw.js _site/
+          cp assets/* _site/assets/
+          touch _site/.nojekyll
+
+      - name: Configure GitHub Pages
+        uses: actions/configure-pages@v6.0.0
+
+      - name: Upload GitHub Pages artifact
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: _site
+
+      - name: Deploy GitHub Pages
+        id: deployment
+        uses: actions/deploy-pages@v5
